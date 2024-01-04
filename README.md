@@ -1,18 +1,19 @@
 # Password Generator
 This is a simple terminal-based application that randomly generates passwords.
 
-## Features
-- Generates any number of passwords of any length.
-- Customisation option for password complexity (can choose to in-/exclude lowercase, uppercase, numberical and special characters).
-- Robust: application checks and validates user input instead of throwin an error.
-- Easy-to-use.
-
 ### Table of contents:
+- [Features](#features)
 - [Installation requirements](#installation-requirements)
 - [How to run the application](#how-to-run-the-application)
 - [How to use](#how-to-use)
 - [File structure](#file-structure)
 - [License information](#license-information)
+
+## Features
+- Generates any number of passwords of any length.
+- Customisation option for password complexity (can choose to include/exclude lowercase, uppercase, numerical, and special characters).
+- Robust: application checks and validates user input instead of throwing an error.
+- Easy-to-use.
 
 ## Installation requirements
 
